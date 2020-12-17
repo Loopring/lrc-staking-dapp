@@ -27,7 +27,7 @@ export default {
   'Confirm': 'Confirmer',
   'Watch-only wallet': 'Portefeuille lecture-seul',
   'Stake': 'Stake',
-  'Deposit new token in the staking pool and start earning collected fees !': 'Déposez de nouveau token et commencer à gagner les frais collectés!',
+  'This function has been disabled. Please join Loopring AMM Liquidity Mining for more rewards.': 'Cette fonction a été désactivée. Veuillez rejoindre Loopring AMM Liquidity Mining pour plus de récompenses.',
   'Claim': 'Réclamer',
   'Claim your rewards and add them to your personal stake.': 'Réclamez vos gains et ajoutez les à votre stake personnel',
   'Withdraw': 'Retirer',

@@ -92,12 +92,11 @@ const Action = React.memo(({
       <Grid item xs={12} md={3} />
       <Grid item xs={12} md={6}>
         <ActionButton
+          isLocked={true}
           messages={messages}
-          isLocked={isLocked}
-          onClick={() => setIsShowDeposit(true)}
           title={messages.Stake}
           image={depositImg}
-          description={messages['Deposit new token in the staking pool and start earning collected fees !']}
+          description={messages['This function has been disabled. Please join Loopring AMM Liquidity Mining for more rewards.']}
           waitingTime={0}
         />
       </Grid>

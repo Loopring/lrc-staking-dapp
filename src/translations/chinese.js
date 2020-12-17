@@ -29,7 +29,7 @@ export default {
   'Confirm': '确认',
   'Watch-only wallet': '查看地址',
   'Stake': '质押',
-  'Deposit new token in the staking pool and start earning collected fees !': '在质押资金池中充值新代币并开始赚取协议手续费！',
+  'This function has been disabled. Please join Loopring AMM Liquidity Mining for more rewards.': '该功能已被禁用。请参与路印AMM流动性挖矿赚更多奖励！',
   'Claim': '领取奖励',
   'Claim your rewards and add them to your personal stake.': '领取您的奖励并将其添加到您的质押金额中。',
   'Withdraw': '提现',
