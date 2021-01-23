@@ -32,6 +32,7 @@ export default {
   'This function has been disabled. Please join Loopring AMM Liquidity Mining for more rewards.': '该功能已被禁用。请参与路印AMM流动性挖矿赚更多奖励！',
   'Claim': '领取奖励',
   'Claim your rewards and add them to your personal stake.': '领取您的奖励并将其添加到您的质押金额中。',
+  'This function has been disabled.': '该功能已被禁用。',
   'Withdraw': '提现',
   'Withdraw your stake and miss the best opportunity of this century...': '提取你的质押金额并，但可能错过本世纪的最佳投资机会。。。',
   'Select amount': '选择数量',

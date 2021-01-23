@@ -31,6 +31,7 @@ export default {
   'This function has been disabled. Please join Loopring AMM Liquidity Mining for more rewards.': 'This function has been disabled. Please join Loopring AMM Liquidity Mining for more rewards.',
   'Claim': 'Claim',
   'Claim your rewards and add them to your personal stake.': 'Claim your rewards and add them to your personal stake.',
+  'This function has been disabled.': 'This function has been disabled.',
   'Withdraw': 'Withdraw',
   'Withdraw your stake and miss the best opportunity of this century...': 'Withdraw your stake and miss the best opportunity of this century...',
   'Select amount': 'Select amount',

@@ -104,11 +104,11 @@ const Action = React.memo(({
       <Grid item xs={12} md={6}>
         <ActionButton
           messages={messages}
-          isLocked={isLocked}
+          isLocked={true}
           onClick={() => setIsShowClaim(true)}
           title={messages.Claim}
           image={claimImg}
-          description={messages['Claim your rewards and add them to your personal stake.']}
+          description={messages['This function has been disabled.']}
           waitingTime={claimTime}
         />
       </Grid>
