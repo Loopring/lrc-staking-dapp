@@ -32,7 +32,7 @@ export default {
   'Claim your rewards and add them to your personal stake.': 'Réclamez vos gains et ajoutez les à votre stake personnel',
   'This function has been disabled.': 'Cette fonction a été désactivée.',
   'Withdraw': 'Retirer',
-  'Withdraw your stake and miss the best opportunity of this century...': 'Retirez vos tokens et ratez l\'opportunité du siècle...',
+  'Withdraw your stake.': 'Retirez vos tokens.',
   'Select amount': 'Entrer le montant',
   'Please fill in the amount of LRC you want to stake.': 'Veuillez entrer la quantité de LRC que vous voulez stake.',
   'Back': 'Retour',

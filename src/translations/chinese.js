@@ -34,7 +34,7 @@ export default {
   'Claim your rewards and add them to your personal stake.': '领取您的奖励并将其添加到您的质押金额中。',
   'This function has been disabled.': '该功能已被禁用。',
   'Withdraw': '提现',
-  'Withdraw your stake and miss the best opportunity of this century...': '提取你的质押金额并，但可能错过本世纪的最佳投资机会。。。',
+  'Withdraw your stake.': '提取你的质押金额。',
   'Select amount': '选择数量',
   'Please fill in the amount of LRC you want to stake.': '请填写您想质押的LRC数量。',
   'Back': '返回',

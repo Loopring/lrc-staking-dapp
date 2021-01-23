@@ -120,7 +120,7 @@ const Action = React.memo(({
           onClick={() => setIsShowWithdraw(true)}
           title={messages.Withdraw}
           image={withdrawImg}
-          description={messages['Withdraw your stake and miss the best opportunity of this century...']}
+          description={messages['Withdraw your stake.']}
           waitingTime={withdrawTime}
         />
       </Grid>
