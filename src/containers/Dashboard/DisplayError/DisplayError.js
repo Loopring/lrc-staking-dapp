@@ -58,7 +58,7 @@ const DisplayError = () => {
       <>
         <strong className="d-block">{title}</strong>
         {`${messages['If you have any issues please contact']} `}
-        <a href="https://twitter.com/NolanVanmoortel" target="_blank" rel="noopener noreferrer">@NolanVanmoortel</a>
+        <a href="mailto:exchange@loopring.io" target="_blank" rel="noopener noreferrer">@NolanVanmoortel</a>
         (
         {errorMsg}
         )

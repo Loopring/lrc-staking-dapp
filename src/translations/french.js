@@ -2,7 +2,7 @@
 // Key = english version and value = the french version
 
 export default {
-  'developpedBy': 'Promoteur: ',
+  'developpedBy': ' ',
   'Please wait while the application is loading': 'Veuillez patienter pendant le chargement de l\'application',
   'If you have any issues please contact': 'Si vous rencontrez un problème, veuillez contacter',
   'Loopring Staking & Claiming manager': 'Loopring Staking & Claiming manager',

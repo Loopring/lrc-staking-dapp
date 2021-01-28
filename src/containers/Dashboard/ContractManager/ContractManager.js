@@ -56,7 +56,7 @@ const ContractManager = () => {
     </Card>
 <div
 className="text-center"
-> {messages['developpedBy']}<a href="https://twitter.com/NolanVanmoortel">NolanVanmoortel</a> </div>
+> {messages['developpedBy']}<a href="mailto:exchange@loopring.io">Contact us</a> </div>
     </div>
   );
 };

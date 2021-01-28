@@ -3,7 +3,7 @@
 // and value = the english version (key=value)
 
 export default {
-  'developpedBy': 'Developed by ',
+  'developpedBy': '',
   'Please wait while the application is loading': 'Please wait while the application is loading',
   'If you have any issues please contact': 'If you have any issues please contact',
   'Loopring Staking & Claiming manager': 'Loopring Staking & Claiming manager',

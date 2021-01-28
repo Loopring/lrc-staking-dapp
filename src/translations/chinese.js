@@ -3,7 +3,7 @@
 // and value = the english version (key=value)
 
 export default {
-  'developpedBy': '开发者：',
+  'developpedBy': '',
   'Please wait while the application is loading': '应用正在加载，请稍等',
   'If you have any issues please contact': '如果您有任何问题请联系',
   'Loopring Staking & Claiming manager': '路印质押和领取奖励管理员',
